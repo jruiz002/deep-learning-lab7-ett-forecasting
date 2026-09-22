@@ -1,0 +1,22 @@
+# Dataset (descargado automáticamente por el notebook)
+ETTh1.csv
+
+# Checkpoints de modelos (Tasks 2, 3, 4)
+checkpoints/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Figures guardadas
+figures/
