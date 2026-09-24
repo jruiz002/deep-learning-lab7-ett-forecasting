@@ -1,5 +1,5 @@
-# Dataset (descargado automáticamente por el notebook)
-ETTh1.csv
+# Dataset (descargado automáticamente por el notebook en data/)
+data/
 
 # Checkpoints de modelos (Tasks 2, 3, 4)
 checkpoints/
@@ -17,6 +17,3 @@ __pycache__/
 
 # macOS
 .DS_Store
-
-# Figures guardadas
-figures/
